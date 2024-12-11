@@ -1,0 +1,309 @@
+{
+  "gates": [
+    {
+      "name": "gateSelatan",
+      "label": "Gate Selatan",
+      "data": [
+        {
+          "id": 1,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 2,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 3,
+          "status": "empty",
+          "type": "truk",
+          "booked": null
+        },
+        {
+          "id": 4,
+          "status": "empty",
+          "type": "truk",
+          "booked": null
+        },
+        {
+          "id": 5,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 6,
+          "status": "empty",
+          "type": "truk",
+          "booked": null
+        },
+        {
+          "id": 7,
+          "status": "booked",
+          "booked": {
+            "nama": "Ardi",
+            "nomor_kendaraan": "B 45607 PX",
+            "waktu_parkir": "13.00",
+            "duration": "4"
+          }
+        },
+        {
+          "id": 8,
+          "status": "booked",
+          "type": "truk",
+          "booked": {
+            "nama": "Sugiono",
+            "nomor_kendaraan": "P 5678 XY",
+            "waktu_parkir": "12.00",
+            "duration": "2"
+          }
+        },
+        {
+          "id": 9,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 10,
+          "status": "empty",
+          "booked": null
+        }
+      ]
+    },
+    {
+      "name": "gateUtara",
+      "label": "Gate Utara",
+      "data": [
+        {
+          "id": 11,
+          "status": "empty",
+          "type": "truk",
+          "booked": null
+        },
+        {
+          "id": 12,
+          "status": "booked",
+          "booked": {
+            "nama": "Ardi",
+            "nomor_kendaraan": "B 1234 ZX",
+            "waktu_parkir": "08.30",
+            "duration": "3"
+          }
+        },
+        {
+          "id": 13,
+          "status": "booked",
+          "type": "truk",
+          "booked": {
+            "nama": "Sugiono",
+            "nomor_kendaraan": "P 9876 TR",
+            "waktu_parkir": "09.45",
+            "duration": "5"
+          }
+        },
+        {
+          "id": 14,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 15,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 16,
+          "status": "booked",
+          "booked": {
+            "nama": "Rina",
+            "nomor_kendaraan": "D 4561 MK",
+            "waktu_parkir": "11.00",
+            "duration": "2"
+          }
+        },
+        {
+          "id": 17,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 18,
+          "status": "booked",
+          "booked": {
+            "nama": "Andi",
+            "nomor_kendaraan": "L 2345 AB",
+            "waktu_parkir": "13.00",
+            "duration": "1"
+          }
+        },
+        {
+          "id": 19,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 20,
+          "status": "empty",
+          "booked": null
+        }
+      ]
+    },
+    {
+      "name": "gateBarat",
+      "label": "Gate Barat",
+      "data": [
+        {
+          "id": 21,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 22,
+          "status": "booked",
+          "booked": {
+            "nama": "Budi",
+            "nomor_kendaraan": "B 7890 CD",
+            "waktu_parkir": "14.15",
+            "duration": "3"
+          }
+        },
+        {
+          "id": 23,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 24,
+          "status": "booked",
+          "booked": {
+            "nama": "Siti",
+            "nomor_kendaraan": "F 1234 EF",
+            "waktu_parkir": "15.00",
+            "duration": "2"
+          }
+        },
+        {
+          "id": 25,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 26,
+          "status": "booked",
+          "booked": {
+            "nama": "Udin",
+            "nomor_kendaraan": "G 4567 HI",
+            "waktu_parkir": "16.45",
+            "duration": "4"
+          }
+        },
+        {
+          "id": 27,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 28,
+          "status": "booked",
+          "booked": {
+            "nama": "Dina",
+            "nomor_kendaraan": "H 7890 JK",
+            "waktu_parkir": "18.00",
+            "duration": "2"
+          }
+        },
+        {
+          "id": 29,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 30,
+          "status": "empty",
+          "booked": null
+        }
+      ]
+    },
+    {
+      "name": "gateTimur",
+      "label": "Gate Timur",
+      "data": [
+        {
+          "id": 31,
+          "status": "booked",
+          "booked": {
+            "nama": "Reno",
+            "nomor_kendaraan": "N 1234 AB",
+            "waktu_parkir": "07.30",
+            "duration": "5"
+          }
+        },
+        {
+          "id": 32,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 33,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 34,
+          "status": "booked",
+          "booked": {
+            "nama": "Eka",
+            "nomor_kendaraan": "W 4567 CD",
+            "waktu_parkir": "09.15",
+            "duration": "2"
+          }
+        },
+        {
+          "id": 35,
+          "status": "booked",
+          "booked": {
+            "nama": "Tina",
+            "nomor_kendaraan": "B 8910 EF",
+            "waktu_parkir": "10.45",
+            "duration": "3"
+          }
+        },
+        {
+          "id": 36,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 37,
+          "status": "booked",
+          "booked": {
+            "nama": "Rian",
+            "nomor_kendaraan": "L 2345 GH",
+            "waktu_parkir": "11.30",
+            "duration": "4"
+          }
+        },
+        {
+          "id": 38,
+          "status": "empty",
+          "booked": null
+        },
+        {
+          "id": 39,
+          "status": "booked",
+          "booked": {
+            "nama": "Sari",
+            "nomor_kendaraan": "K 6789 IJ",
+            "waktu_parkir": "12.15",
+            "duration": "1"
+          }
+        },
+        {
+          "id": 40,
+          "status": "empty",
+          "booked": null
+        }
+      ]
+    }
+  ]
+}
